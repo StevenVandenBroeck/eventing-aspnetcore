@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Eventing", "Eventing\Eventing.xproj", "{37B041FD-A755-4C70-9C51-817EF7F10E28}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Eventing.UnitTests", "Eventing.UnitTests\Eventing.UnitTests.xproj", "{643535C1-2BFA-447F-8E8B-EDC98D6D4A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B041FD-A755-4C70-9C51-817EF7F10E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B041FD-A755-4C70-9C51-817EF7F10E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B041FD-A755-4C70-9C51-817EF7F10E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B041FD-A755-4C70-9C51-817EF7F10E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643535C1-2BFA-447F-8E8B-EDC98D6D4A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643535C1-2BFA-447F-8E8B-EDC98D6D4A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643535C1-2BFA-447F-8E8B-EDC98D6D4A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643535C1-2BFA-447F-8E8B-EDC98D6D4A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
